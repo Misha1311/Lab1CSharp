@@ -68,8 +68,7 @@ namespace SampleNamespace
     {
         public void SampleMethod()
         {
-            System.Console.WriteLine(
-              "SampleMethod inside SampleNamespace");
+            System.Console.WriteLine("SampleMethod in SampleNamespace");
         }
     }
 }
